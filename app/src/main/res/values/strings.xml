@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">app_res_vuel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragLogin">¿Si, no tienes una Cuenta?.. Registrar</string>
+    <string name="fragRegis">Ya cuento con una Cuenta... Login</string>
+    <string-array name="estado_civil">
+        <item>Soltera/o</item>
+        <item>Casada/o</item>
+        <item>Separacion Proceso Judicial</item>
+        <item>Viuda/o</item>
+        <item>Concubinato</item>
+    </string-array>
+</resources>
